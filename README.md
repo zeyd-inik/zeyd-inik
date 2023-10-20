@@ -1,12 +1,3 @@
-![Header image](github-header-image.png)
-
-
-
-
-
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
