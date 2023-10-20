@@ -1,11 +1,11 @@
-<h1 >Hi 👋, I'm Zeyd Inik</h1>
+<h1 >Hi, I'm Zeyd Inik</h1>
 <h3 >Frontend Developer</h3>
 
 - 🌱 I’m currently learning **Nuxt 3**
 
 - 💬 Ask me about **HTML, CSS, JS & VUE realated technologies**
 
-- 📫 How to reach me **1zeydinik@gmail.com**
+
 
 
 
