@@ -1,9 +1,7 @@
 ![Header image](github-header-image.png)
 
 
-- 🌱 I’m currently learning **Nuxt 3**
 
-- 💬 Ask me about **HTML, CSS, JS & VUE realated technologies**
 
 
 
