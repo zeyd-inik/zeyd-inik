@@ -1,5 +1,5 @@
 ![Header image](github-header-image.png)
-<h3 >Frontend Developer</h3>
+
 
 - 🌱 I’m currently learning **Nuxt 3**
 
