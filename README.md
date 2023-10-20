@@ -1,16 +1,70 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Zeyd Inik</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-<!--
-**zeyd-inik/zeyd-inik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Nuxt 3**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **HTML, CSS, JS & VUE realated technologies**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **1zeydinik@gmail.com**
+
+
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+    <p align="left">
+        <a >
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                alt="html5"
+                width="40"
+                height="40"
+            />
+            <a >
+                <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+                    alt="css3"
+                    width="40"
+                    height="40"
+                />
+            </a>
+            <a >
+                <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+                    alt="sass"
+                    width="40"
+                    height="40"
+                />
+            </a>
+            <a >
+                <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                    alt="javascript"
+                    width="40"
+                    height="40"
+                />
+            </a>
+            <a>
+                <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+                    alt="vuejs"
+                    width="40"
+                    height="40"
+                />
+            </a>
+           <a>
+                <img
+                    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+                    alt="firebase"
+                    width="40"
+                    height="40"
+                />
+            </a>
+           <a>
+                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+            </a>
+           
+           
+           
+     
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyd-inik&show_icons=true&locale=en&layout=compact" alt="zeyd-inik" /></p>
