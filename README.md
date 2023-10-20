@@ -1,4 +1,4 @@
-<h1 >Hi, I'm Zeyd Inik</h1>
+![Header image](github-header-image.png)
 <h3 >Frontend Developer</h3>
 
 - 🌱 I’m currently learning **Nuxt 3**
