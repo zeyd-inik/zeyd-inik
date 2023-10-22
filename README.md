@@ -1,14 +1,11 @@
 ## Hello, I'm Zeyd!
 
-I ❤️ JavaScipt & Front-end Development
+⚫ I ❤️ JavaScipt & Front-end Development
 
 ⚫ Self-though Front-end Developer
 
-⚫ Vue.js Fan 
+⚫ Vue.js Fan  | ⚫ Minimalist | ⚫ Tea Addicted
 
-⚫ Minimalist
-
-⚫ Tea Addicted
 
 ## Main tech knowledge:
 
