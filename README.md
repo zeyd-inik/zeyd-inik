@@ -4,7 +4,9 @@
 
 ⚫ Self-though Front-end Developer
 
-⚫ Vue.js Fan  | ⚫ Minimalist | ⚫ Tea Addicted
+⚫ Vue.js Fan  
+
+⚫ Minimalist 
 
 
 ## Main tech knowledge:
