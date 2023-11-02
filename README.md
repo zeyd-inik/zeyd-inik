@@ -2,7 +2,9 @@
 
 ⚫ I ❤️ JavaScipt & Front-end Development
 
-⚫ Self-though Front-end Developer | ⚫ Vue.js Fan | ⚫ Minimalist 
+⚫ Self-though Front-end Developer 
+
+⚫ Vue.js Fan 
 
 
 
