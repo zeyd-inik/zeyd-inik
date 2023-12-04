@@ -4,9 +4,6 @@
 
 ⚫ Self-though Front-end Developer 
 
-⚫ Vue.js Fan 
-
-
 
 ## Main tech knowledge:
 
