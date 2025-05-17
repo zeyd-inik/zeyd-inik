@@ -1,7 +1,5 @@
 ## Hello, I'm Zeyd!
 
-⚫ I ❤️ JavaScipt & Front-end Development
-
 ⚫ Self-though Front-end Developer 
 
 
