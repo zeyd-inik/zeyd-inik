@@ -1,8 +1,5 @@
 ## Hello, I'm Zeyd!
 
-⚫ Self-though Front-end Developer 
-
-
 ## Main tech knowledge:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,7 +18,7 @@
 | ------------- | ------------------------------------------------------------------------- |
 | English       | Advanced                                                                  |
 | Italian       | Advanced                                                                  |
-| Turkish       | Native Language                                                           |
+
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
